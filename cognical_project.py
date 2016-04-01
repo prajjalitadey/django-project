@@ -26,7 +26,7 @@ import csv
 
 
 
-# ---*----- Connect to Database ------*---
+# ---*----- Connect to New Database ------*---
 
 #connection = pg.connect(database='ml_latest', user='postgres', host = 'localhost', password='greenkey217')
 #cur = connection.cursor()
