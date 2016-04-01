@@ -11,9 +11,6 @@ import time, datetime
 import csv
 
 
-now = int(time.time()) #time right now
-datetime.datetime.utcfromtimestamp(now) #time now, converted to format
-
 # ---*----- Create Database ------*-
 
 #connection = pg.connect(database='postgres', user='postgres', host = 'localhost', password='greenkey217')
